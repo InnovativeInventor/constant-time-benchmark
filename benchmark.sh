@@ -1,1 +1,1 @@
-watch -n 0 "./test-1 >> output-test1"
+watch -n 0 "./test-0 >> output-test0"
